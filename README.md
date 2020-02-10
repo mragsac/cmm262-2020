@@ -20,7 +20,7 @@ Course website for CMM / BIOM 262  Winter 2020 - Quantitative Methods in Genetic
 | 4 | 01/28/2020 | **Module 4: Single Cell Analysis** | Robert Morey | [Module 4](https://github.com/biom262/cmm262-2020/tree/master/Module_4) | None |
 | 5 | 02/04/2020 | **Module 5: ChIP-seq & chromatin** | Alon Goren | [Module 5](https://github.com/biom262/cmm262-2020/tree/master/Module_5) | None |
 | 6 | 02/11/2020 | **Module 6: GSEA** | Pablo Tamayo <br> William Kim | TBA | None |
-| 7 | 02/18/2020 | **Module 7: Networks** | Hannah Carter | [Module 5](https://github.com/biom262/cmm262-2020/tree/master/Module_7) | TBA |
+| 7 | 02/18/2020 | **Module 7: Networks** | Hannah Carter | [Module 7](https://github.com/biom262/cmm262-2020/tree/master/Module_7) | TBA |
 | 8 | 02/25/2020 | **Module 8: GWAS** | Graham McVicker | TBA | None |
 | 9 | 03/03/2020 | **Module 9: Variant Calling** | Olivier Harismendy | TBA | TBA |
 | 10 | 03/10/2020 | **Module 10: Population Genetics** | Nicholas Schork <br> Ondrej Libiger | TBA | None |
